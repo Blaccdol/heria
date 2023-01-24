@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: azure;
+    box-sizing: border-box;
+    color: #030314;
+}
+
+.about{
+    margin-top: 150px;
+}
+.w{
+    font-size: 30px;
+}
+
+.image_one{
+    float: left;
+}

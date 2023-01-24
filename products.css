@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 0;
+}
+
+.top{
+    background-image: url(http://cdn.shopify.com/s/files/1/2123/8949/collections/HERIA_CALISTHENICS_Full_1200x1200.jpg?v=1663813722);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.part_one{
+    margin-top: 500px;
+    text-align: center;
+    color: #262626;
+
+}
+
+.categories{
+    display: flex;
+    flex-direction: column;
+}
+
+.jackets{
+    display: flex;
+    flex-direction: row;
+    gap: 15px
+}
+
+.pants{
+    display: flex;
+    flex-direction: row;
+    gap: 15px
+}
+
+.shirts{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.shirts_items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.item_description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.h1{
+    font-size: 25px;
+    margin-top: 600px;
+    text-align: center;
+    font-size: 30px;
+}

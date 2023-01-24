@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+.part_one{
+     margin-top: 200px;
+}
+
+.part_two{
+    margin-top: 150px;
+}
+
+.container_one{
+    gap: 10px;
+}
+
+.input{
+    width: 700px;
+    height: 35px;
+    padding: 3px 2px;
+    gap: 10px;
+}
